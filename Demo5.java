@@ -11,7 +11,8 @@ public static void main(String[] args) {
 		System.out.println(200);									//200 
 		System.out.println('A');									//A
 		//System.out.println("A");									//Not recommended 
-		System.out.println('A');									
+		System.out.println('A');
+	        System.out.println('B');
 		System.out.println("1000");								//1000 
 		System.out.println("B");								//B
 		System.out.println("b");								//b
